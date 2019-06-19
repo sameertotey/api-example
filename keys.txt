@@ -2,3 +2,8 @@ export CLIENT_ID="partner-pinnacleag"
 export CLIENT_SECRET="ru4lm3l3srplebe4mpeslfu5iq"
 export API_KEY="partner-pinnacleag-fb63da81-335d-4677-b642-13c2817d0bab"
 export API_SCOPES="asPlanted:read+scouting:read+fields:write+soil:write+rx:write+fields:read+asHarvested:read+resourceOwners:read+imagery:write+asApplied:read"
+
+export CLIMATE_API_ID="partner-pinnacleag"     
+export CLIMATE_API_SECRET="ru4lm3l3srplebe4mpeslfu5iq"
+export CLIMATE_API_KEY="partner-pinnacleag-fb63da81-335d-4677-b642-13c2817d0bab"
+export CLIMATE_API_SCOPES="asPlanted:read+scouting:read+fields:write+soil:write+rx:write+fields:read+asHarvested:read+resourceOwners:read+imagery:write+asApplied:read"
